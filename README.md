@@ -57,3 +57,20 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+# Personal Website
+
+Personal portfolio website built using Laravel.
+
+## Tech Stack
+- Laravel
+- PHP
+- MySQL
+- HTML, CSS, JavaScript
+
+## Setup Instructions
+1. Clone the repository
+2. Run `composer install`
+3. Copy `.env.example` to `.env`
+4. Run `php artisan key:generate`
+5. Configure database
+6. Run `php artisan serve`
